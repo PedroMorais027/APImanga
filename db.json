@@ -1,0 +1,71 @@
+{
+    "Mangas": [
+      {
+        "nome": "Berserk",
+        "anoLan": 1989,
+        "autor": "Kentaro Miura",
+        "autId": 1,
+        "id": 1
+      },
+     {
+        "nome": "One Piece",
+        "anoLan": 1997,
+        "autor": "Eiichiro Oda",
+        "autId": 2,
+        "id": 2
+      },
+      {
+        "nome": "Chainsaw Man",
+        "anoLan": 2018,
+        "autor": "Tatsuki Fujimoto",
+        "autId": 3,
+        "id": 3
+      },
+      {
+        "nome": "Jojo's Bizzare Adventure Part 7: Steel Ball Run",
+        "anoLan": 2004,
+        "autor": "Hirohiko Araki",
+        "autId": 4,
+        "fab_id": 4
+      },
+      {
+        "nome": "Demon Slayer",
+        "anoLan": 2016,
+        "autor": "Koyoharu Gotōge",
+        "autId": 5,
+        "id": 5
+      }
+    ],
+    "Autores": [
+      {
+        "id": 1,
+        "nome": "Kentaro Miura",
+        "origem": "Provincia de Chiba",
+        "anoNasc": 1966
+      },
+      {
+        "id": 2,
+        "nome": "Eiichiro Oda",
+        "origem": "Provincia de Kumamoto",
+        "ano_fundacao": 1975
+      },
+      {
+        "id": 3,
+        "nome": "Tatsuki Fujimoto",
+        "origem": "Provincia de Akita",
+        "ano_fundacao": 1993
+      },
+      {
+        "id": 4,
+        "nome": "Hirohiko Araki",
+        "origem": "Provincia de Sendai",
+        "ano_fundacao": 1960
+      },
+      {
+        "id": 5,
+        "nome": "Koyoharu Gotōge",
+        "origem": "Provincia de Fukuoka",
+        "ano_fundacao": 1989
+      }
+    ]
+  }
