@@ -1,35 +1,35 @@
 {
     "Mangas": [
       {
-        "nome": "Berserk",
+        "name": "Berserk",
         "anoLan": 1989,
         "autor": "Kentaro Miura",
         "autId": 1,
         "id": 1
       },
      {
-        "nome": "One Piece",
+        "name": "One Piece",
         "anoLan": 1997,
         "autor": "Eiichiro Oda",
         "autId": 2,
         "id": 2
       },
       {
-        "nome": "Chainsaw Man",
+        "name": "Chainsaw Man",
         "anoLan": 2018,
         "autor": "Tatsuki Fujimoto",
         "autId": 3,
         "id": 3
       },
       {
-        "nome": "Jojo's Bizzare Adventure Part 7: Steel Ball Run",
+        "name": "Jojo's Bizzare Adventure Part 7: Steel Ball Run",
         "anoLan": 2004,
         "autor": "Hirohiko Araki",
         "autId": 4,
         "fab_id": 4
       },
       {
-        "nome": "Demon Slayer",
+        "name": "Demon Slayer",
         "anoLan": 2016,
         "autor": "Koyoharu Gotōge",
         "autId": 5,
